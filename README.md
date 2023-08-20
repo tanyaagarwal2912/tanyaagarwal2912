@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi there 👋 I'm Tanya Agarwal from India.
+Data is the driving force of today's world, and it sparked my journey into the captivating realm of Data Science and Analytics.
 
-<!--
-**tanyaagarwal2912/tanyaagarwal2912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My current passions include:
+Making Machines Learn : Machine Learning, NLP
+Unveiling Insights from Data : Data Analytics | SQL
+Creating Visual Magic : Data Visualization :Power BI
+Coding Adventures : Python
+Forecasting : Time Series
+Neural Networks : Deep Learning
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+These are my colors on the canvas of curiosity as I dive into the fascinating universe of Data Science.
