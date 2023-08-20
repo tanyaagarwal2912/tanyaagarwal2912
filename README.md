@@ -6,7 +6,6 @@ I am Tanya Agarwal. I have worked on Python, SQL, Power BI and Machine Learning.
 
 Skills: Python / SQL / Power BI / Machine Learning / NLP
 
-- 🔭 I’m currently working on this page. 
 
 
 
