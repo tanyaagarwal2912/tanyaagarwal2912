@@ -7,9 +7,9 @@ I am Tanya Agarwal. I have worked on Python, SQL, Power BI and Machine Learning.
 ### My Current Passion Include:
 * Coding Adventures : Python
 * Database : MYSQL, PostgreSQL, SQL Server
+* Creating Visual Magic : Data Visualization :Power BI
 * Making Machines Learn : Machine Learning
 * Unveiling Insights from Data : Data Analytics
-* Creating Visual Magic : Data Visualization :Power Bi
 * Forecasting : Time Series Model
 
 
