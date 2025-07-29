@@ -1,4 +1,6 @@
 👩‍💻 Data Analyst | Data Engineer in Progress
+
+
 I’m currently working on building and improving data pipelines using PySpark, SQL, and tools like Snowflake and Airflow. My focus is on writing clean, efficient code and learning how to scale data workflows for real-world use cases.
 
 🔧 Tools I work with:
