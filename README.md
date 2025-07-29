@@ -1,17 +1,20 @@
-### Hi there 👋, I am Tanya Agarwal from India.
-### Passionate Data Analayst and Scientist
-I am Tanya Agarwal. I have worked on Python, SQL, Power BI and Machine Learning. Data is the driving force of today's world, and it sparked my journey into the captivating realm of Data Science and Analytics.
+👩‍💻 Data Analyst | Data Engineer in Progress
+I’m currently working on building and improving data pipelines using PySpark, SQL, and tools like Snowflake and Airflow. My focus is on writing clean, efficient code and learning how to scale data workflows for real-world use cases.
 
-![Passionate Data Analyst and Data Scientist](https://material.hkust-gz.edu.cn/wp-content/uploads/2023/05/banner-data-science-analytics-2x-scaled.jpg)
+🔧 Tools I work with:
+PySpark • SQL • Snowflake • Airflow • Python • PostgreSQL
 
-### My Current Passion Include:
-* Coding Adventures : Python
-* Database : MYSQL, PostgreSQL, SQL Server
-* Creating Visual Magic : Data Visualization :Power BI
-* Making Machines Learn : Machine Learning
-* Unveiling Insights from Data : Data Analytics
-* Forecasting : Time Series Model
+💡 I enjoy turning raw data into meaningful insights and automating repetitive processes. I’m constantly learning and growing in the field of data engineering.
 
+📁 Learning by building:
+
+Basic ETL pipelines using PySpark
+
+Scheduling jobs with Airflow
+
+Writing queries for analytics and reporting
+
+I'm open to collaboration, feedback, and learning from the community!
 
 
 
